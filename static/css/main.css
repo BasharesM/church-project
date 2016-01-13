@@ -12,6 +12,11 @@ header {
     margin-bottom: 20px;
 }
 
+.logo {
+    font-family: 'Lato', sans-serif;
+    padding: 13px!important;
+}
+
 .navbar a {
     color: #000;
 }
