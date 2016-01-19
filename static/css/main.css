@@ -27,6 +27,14 @@ header {
     margin: 0;
 }
 
+.logo-img {
+    text-align: center;
+}
+
+.title-description {
+    margin-top: 50px;
+}
+
 #owl-carousel {
     width: 100%;
     text-align: center;
